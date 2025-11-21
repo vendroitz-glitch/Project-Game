@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+  <rect width="1200" height="400" fill="#a7f3d0"></rect>
+  <g id="mountains">
+    <polygon points="0,300 180,80 360,300" fill="#7dd3fc"></polygon>
+    <polygon points="220,300 420,60 640,300" fill="#60a5fa"></polygon>
+    <polygon points="520,300 760,40 980,300" fill="#3b82f6"></polygon>
+    <polygon points="860,300 1060,100 1200,300" fill="#2563eb"></polygon>
+  </g>
+  <rect y="300" width="1200" height="100" fill="#6ee7b7"></rect>
+  <g>
+    <circle cx="1050" cy="70" r="36" fill="#fff59d"></circle>
+  </g>
+</svg>

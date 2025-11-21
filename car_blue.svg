@@ -1,0 +1,24 @@
+<svg width="180" height="90" viewBox="0 0 180 90" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- BODY -->
+  <rect x="40" y="35" width="120" height="35" rx="8" fill="#1f4fcc"></rect>
+  <rect x="60" y="10" width="70" height="35" rx="10" fill="#3f6ef0"></rect>
+
+  <!-- WINDOWS -->
+  <rect x="70" y="15" width="25" height="25" rx="4" fill="white" opacity="0.85"></rect>
+  <rect x="100" y="15" width="25" height="25" rx="4" fill="white" opacity="0.85"></rect>
+
+  <!-- WHEELS -->
+  <circle cx="75" cy="75" r="13" fill="#1b1b1b"></circle>
+  <circle cx="75" cy="75" r="6" fill="#888"></circle>
+
+  <circle cx="135" cy="75" r="13" fill="#1b1b1b"></circle>
+  <circle cx="135" cy="75" r="6" fill="#888"></circle>
+
+  <!-- HEADLIGHT (menghadap kanan) -->
+  <rect x="152" y="45" width="8" height="12" rx="3" fill="#ffeb87"></rect>
+
+  <!-- REAR LIGHT -->
+  <rect x="40" y="45" width="8" height="12" rx="3" fill="#ff4a4a"></rect>
+
+</svg>
